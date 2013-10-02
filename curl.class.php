@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  * cURL class for easy use
  * @author Nagy Gergely chip@futureweb.hu
